@@ -16,4 +16,18 @@
 
 [7] Можно запускать сервер: ```python ./ComfyUI/main.py --listen```
 
+## Работа с сервером из локальной машины
+
+[1] Установить websocket-client ```pip install websocket-client```
+
+[2] Склонировать репозиторий
+
+[3] В папке с репозиторием ввести ```python websockets_api_example.py```
+
+[4] Ввести ip адрес вашего сервера
+
+
+## Фронтенд
+
+репозиторий фронтенда можно найти по [ссылке](https://github.com/alex-bul/lct_2024)
 
