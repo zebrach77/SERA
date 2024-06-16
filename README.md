@@ -12,7 +12,7 @@
 
 [5] ```source ./sera_env/bin/activate```
 
-[6] ```pip install -r ./requirements.txt```
+[6] ```pip install -r ./requirements_sera.txt```
 
 [7] Можно запускать сервер: ```python ./ComfyUI/main.py --listen```
 
